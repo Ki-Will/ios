@@ -95,3 +95,6 @@ BitwardenKit/Core/Platform/Utilities/SDKVersionInfo.swift
 __pycache__/
 *.py[codz]
 *$py.class
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
